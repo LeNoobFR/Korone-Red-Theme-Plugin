@@ -1,6 +1,6 @@
 // ==UserScript==
 // @name         Korone Roblox Red Theme
-// @namespace    https://github.com/
+// @namespace    theme
 // @version      1.0
 // @description  Just a custom theme.
 // @author       LeNoob
